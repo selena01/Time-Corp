@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#F1FFF8;
+    padding-top: 70px;
+}
+
+#home-image {
+	padding: 50px 0 50px 0;
+}
+
+.laws li {
+	line-height: 2.5;
+}
+
+ol {
+	padding: 0px;
+}
+
+.jumbotron {
+	background-image:url(../img/techBG.jpg);
+	border: medium solid #CCC;
+	margin-top: 5%;
+	text-align: center;
+}
+
+.modal img {
+	max-height: 90%;
+	max-width: 90%;
+}
+
+.nav>li>a {
+	color: #9CC;
+}
+
+.nav>li>a:hover {
+	background-color: #9CC;
+	border-bottom: none;
+	border-color: #000;
+	color: #000;
+}
+
+.navbar {
+	background-color: #333;
+	border: none;
+	min-height: 30px;
+	padding-top: 5px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border: none;
+}
+
+.nav-tabs>li.active>a {
+	background-color: #F1FFF8;
+}
+
+.navbar-brand {
+	height: 30px;
+	padding-top:10px;
+}
+
+.navbar-default .navbar-brand {
+	color: #9CC;
+}
+
+.nav-tabs {
+	border: none;
+}
